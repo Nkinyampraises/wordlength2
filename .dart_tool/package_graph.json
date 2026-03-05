@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "assignment_2"
+  ],
+  "packages": [
+    {
+      "name": "assignment_2",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
